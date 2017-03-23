@@ -8,5 +8,5 @@ and to have more information about us and the  services we provide  .
 
 Thanks.
 
-![alt="company image"](https://raw.githubusercontent.com/kingsley-k/website/master//to/img.png)
+![](https://github.com/kingsley-k/website/blob/master/img.png?raw=true)
 
