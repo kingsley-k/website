@@ -8,5 +8,7 @@ and to have more information about us and the  services we provide  .
 
 Thanks.
 
-![](https://github.com/kingsley-k/website/blob/master/img.png?raw=true)
+<a href="https://goo.gl/PfFzhw">
+<img border="0" alt="W3Schools" src="https://github.com/kingsley-k/website/blob/master/img.png?raw=true">
+</a>
 
